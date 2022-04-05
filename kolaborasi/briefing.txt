@@ -1,0 +1,26 @@
+Input:
+bnyk_aymGP
+bnyk_aymGR
+bnyk_udgGR
+bnyk_cmiGR
+bnyk_aymBK
+jarak
+
+Proses :
+total harga
+diskon
+ongkir
+diskon ongkir
+yang harus dibayar 
+bnyk aymGP
+bnyk aymGR
+bnyk udgGR
+bnyk cmiGR
+bnyk aymBK
+
+
+output :
+
+
+
+ 
